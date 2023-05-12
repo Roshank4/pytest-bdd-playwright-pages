@@ -5,7 +5,7 @@ This is a pytest-bdd project built using Playwright, and using pages to organize
 
 The screenshot has an example of the html report that is working.
 
-If you want to run the code, use line 8 in the in the test_selenium_web_driver.py file (you need to be in the tests directory)
+If you want to run the code, use line 7 in the in the test_selenium_web_driver.py file (you need to be in the tests directory)
 
 # Dependencies:
 
