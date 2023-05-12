@@ -1,7 +1,7 @@
 import pytest
 from pytest_bdd import scenario, given, when, then, parsers
 from playwright.sync_api import Playwright
-from ..pages import web_form_page
+from pages import web_form_page
 
 import pytest
 
